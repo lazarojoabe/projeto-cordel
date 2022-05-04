@@ -36,12 +36,6 @@ header > h1{
     font-family: var(--font02);
     font-size: 7vw;
 }
-article{
-    height: 100;
-    text-align: center;
-    
-    padding: 10px;
-}
 section{
     padding-top: 10vh;
     padding-bottom: 10vh;
