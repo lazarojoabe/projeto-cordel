@@ -42,7 +42,7 @@ section{
     line-height: 2em;
     padding-left: 30px;
     font-family: var(--font03);
-    font-size: 3vw;
+    font-size: 2em;
 }
 section.normal{
     background-color: white;
