@@ -85,12 +85,15 @@ footer > p > a{
     text-decoration: none;
     font-weight: bolder;
 }
-@media screen and (max-width: 1200px ){
+@media screen and (max-width: 1200px){
     section{
         font-size: 3.7vw;
     }
+    header > h1{
+        font-size: 9vw;
+    }
 }
-@media screen and (max-width: 630px) {
+@media screen and (max-width: 700px) {
     header > h1{
         font-size: 11vw;
     }
