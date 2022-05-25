@@ -95,7 +95,7 @@ footer > p > a{
 }
 @media screen and (max-width: 700px) {
     header > h1{
-        font-size: 11vw;
+        font-size: 16vw;
     }
     section{
         font-size: 5.7vw;
