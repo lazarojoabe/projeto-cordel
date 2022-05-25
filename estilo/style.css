@@ -85,8 +85,8 @@ footer > p > a{
     text-decoration: none;
     font-weight: bolder;
 }
-@media screen and (max-width: 450px) {
-    body{
-        font-size: 3vw;
+@media screen and (max-width: 600px) {
+    section{
+        font-size: 4.7vw;
     }
 }
